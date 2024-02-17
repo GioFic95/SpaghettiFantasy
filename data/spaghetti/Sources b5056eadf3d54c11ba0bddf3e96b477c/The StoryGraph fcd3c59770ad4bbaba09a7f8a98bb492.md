@@ -1,0 +1,5 @@
+# The StoryGraph
+
+Img: storygraph.png
+Links: https://app.thestorygraph.com/books/e5ed167b-3183-4f7f-9a5a-0aca525c080e,https://app.thestorygraph.com/books/8bd8766a-6ce5-42ae-9c31-da4dd9d23241,https://app.thestorygraph.com/books/9329c574-8b82-462e-8d73-df43607806c6,https://app.thestorygraph.com/books/cd1b3796-e808-4c00-a4c0-ae44a85e6b98,https://app.thestorygraph.com/books/f53fbf5c-72e6-4c69-90d0-c6d0b96afe6c,https://app.thestorygraph.com/books/bf6f688a-f0a5-4089-9f1f-7a0013eee8d5,https://app.thestorygraph.com/books/e53dc18e-2740-498f-aa96-9801fabe6acb,https://app.thestorygraph.com/books/4b1b6fd6-942c-4ace-8b05-38172c7f4671,https://app.thestorygraph.com/books/25791c44-e308-404b-8172-d378dd0b9841,https://app.thestorygraph.com/books/be3368ac-b1ad-4d93-941e-aaedd7ea929e,https://app.thestorygraph.com/books/594bcabf-1357-4fe0-964e-522014dfacd5,https://app.thestorygraph.com/books/3a6e5a6c-1af2-4cfd-9018-3d9a9d246ef9
+type: recensioni

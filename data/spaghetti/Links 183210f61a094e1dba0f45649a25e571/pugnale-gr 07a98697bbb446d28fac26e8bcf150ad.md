@@ -1,0 +1,5 @@
+# pugnale-gr
+
+URL: https://www.goodreads.com/book/show/199875745-il-pugnale-dei-poeti
+Tags: recensioni
+Source: GoodReads (https://www.notion.so/GoodReads-e39f59fe7d434e84b0d13a5de4496d11?pvs=21)

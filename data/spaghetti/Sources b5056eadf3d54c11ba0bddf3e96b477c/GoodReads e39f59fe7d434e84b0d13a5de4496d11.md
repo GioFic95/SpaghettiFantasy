@@ -1,0 +1,5 @@
+# GoodReads
+
+Img: Goodreads_logo_-_SuperTinyIcons.svg.png
+Links: https://www.goodreads.com/book/show/61402173-la-mesmerista,https://www.goodreads.com/book/show/65007371-le-notti-di-cliffmouth,https://www.goodreads.com/book/show/62974782-clover-il-custode-delle-storie-incompiute,https://www.goodreads.com/book/show/60721439-awen,https://www.goodreads.com/book/show/122994750-nell-ruell-va-all-inferno,https://www.goodreads.com/book/show/59753701-azoth-express,https://www.goodreads.com/book/show/52316653-la-fiamma-azzurra,https://www.goodreads.com/book/show/189358751-cuore-di-ferro,https://www.goodreads.com/book/show/59787776-liwaria-la-spada-di-diamante-blu,https://www.goodreads.com/book/show/83822544-gli-incubi-di-chi-non-dorme,https://www.goodreads.com/book/show/199875745-il-pugnale-dei-poeti,https://www.goodreads.com/book/show/156018735-tsunami
+type: recensioni
